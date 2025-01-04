@@ -13,4 +13,4 @@ I'm currently learning Java, Python, Ruby, JavaScript, SQL, and HTML/CSS through
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzettoBea)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazzettobea&show_icons=true&theme=omni)
 
-I'm really exited to contribute to open-source projects and collaborate with other developers. Feel free to connect with me on [Link to LinkedIn/Other Social Media].
+I'm really exited to contribute to open-source projects and collaborate with other developers. 
