@@ -1,16 +1,16 @@
-## Hi there 👋
+###Hi there!👋 My name is Bianca, I'm from Brazil, São Paulo.</br>
+I'm a really passionate person, especially about software development and I'm driven to learn new technologies. I wish to become a fullstack someday<3 <br>
+I'm currently learning Java, Python, Ruby, JavaScript, SQL, and HTML/CSS through online courses/resources and personal projects.
 
-<!--
-**MazzettoBea/MazzettoBea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️The languages that I'm learning:</br>
 
-Here are some ideas to get you started:
+☕Programming Languages: Java, Python, Ruby, JavaScript</br>
+📓Databases: SQL</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🖥️I'm also learning:</br>
+🌐Web Development: HTML, CSS</br>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzettoBea)](https://github.com/anuraghazra/github-readme-stats)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazzettobea&show_icons=true&theme=omni)
+
+I'm really exited to contribute to open-source projects and collaborate with other developers. Feel free to connect with me on [Link to LinkedIn/Other Social Media].
