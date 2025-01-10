@@ -10,8 +10,13 @@ I'm currently learning Java, Python, Ruby, JavaScript, SQL, and HTML/CSS through
 
 🖥️I'm also learning:</br>
 🌐Web Development: HTML, CSS</br>
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzettoBea)](https://github.com/anuraghazra/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazzettobea&show_icons=true&theme=omni)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazzettoBea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazzettoBea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 I'm really exited to contribute to open-source projects and collaborate with other developers. 
 <div style="display: inline_block"><br>
