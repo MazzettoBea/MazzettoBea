@@ -1,5 +1,5 @@
 ###Hi there!👋 My name is Bianca, I'm from Brazil, São Paulo.</br>
-I'm a really passionate person, especially about software development and I'm driven to learn new technologies. I wish to become a fullstack someday<3 <br>
+I'm a really passionate person, especially about software development and I'm exited to learn new technologies. My wish is to become a fullstack someday <3 <br>
 I'm currently learning Java, Python, Ruby, JavaScript, SQL, and HTML/CSS through online courses/resources and personal projects.
 
 🖥️The languages that I'm learning:</br>
